@@ -1,7 +1,7 @@
 <div align="center">
 
 # Rishabh Jhingran
-### Senior Data Engineer · Databricks Certified · PySpark · Python · Azure
+### Data Engineer | Python Developer · Databricks Certified · PySpark · Python · Azure
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rishabh--jhingran-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/rishabh-jhingran)
 [![Email](https://img.shields.io/badge/Email-rishabhjhingran96%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:rishabhjhingran96@gmail.com)
