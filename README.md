@@ -122,5 +122,5 @@ Four production automation pipelines from TCS: ServiceNow incident ETL (1,000+ m
 ---
 
 <div align="center">
-<i>Open to Senior Data Engineer roles · Bengaluru / Pune / Hyderabad / Remote · 20+ LPA</i>
+<i>Open to Senior Data Engineer roles · PAN India / Remote · 20+ LPA</i>
 </div>
