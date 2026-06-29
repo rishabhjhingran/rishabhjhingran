@@ -57,7 +57,7 @@ Complete hands-on coverage of Delta Lake: all 3 `MERGE INTO` patterns, Change Da
 
 ---
 
-### 🐍 [Python ETL & Automation — Production Pipelines](https://github.com/rishabhjhingran/python-etl-automation)
+### 🐍 [Python ETL & Automation — Production Pipelines]([(https://github.com/rishabhjhingran/python_etl)])
 > REST APIs · OAuth2 · Outlook ETL · SQL Server · SMTP · ServiceNow · Webex
 
 Four production automation pipelines from TCS: ServiceNow incident ETL (1,000+ monthly records → Excel), Webex OAuth2 alerting for Control-M failures, Outlook shared mailbox ETL with SQL Server `MERGE INTO`, and SQL-to-colour-coded-HTML email reporting. All config-driven, fully logged.
