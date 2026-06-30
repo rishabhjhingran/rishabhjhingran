@@ -14,9 +14,9 @@
 
 ## 👋 About Me
 
-Data Engineer with **7 years of production experience** at Tata Consultancy Services building ETL pipelines, REST API integrations, and automation systems that process **1,000+ incidents monthly**, serve **200+ associates**, and cut manual effort by up to **40%** across 10+ business units.
+7 years at Tata Consultancy Services, with recent focus as a Data Engineer building production-grade ETL pipelines, Medallion architecture data lakehouses, and Structured Streaming pipelines on Databricks. 
 
-Hands-on across the full stack — **Databricks lakehouse** (Medallion architecture, Structured Streaming, Delta Lake) and **Python automation** (REST APIs, Outlook ETL, SQL-to-email reporting, OAuth2 integrations).
+Proven record of cutting manual effort by 40%, improving SLA compliance by 25%, and processing 1,000+ incidents monthly through scalable PySpark and Python solutions. Hands-on expert in Databricks, Apache Spark, Delta Lake, and the full Python ecosystem — Pandas, SQLAlchemy, PyODBC, Requests.
 
 ```text
 🔧 Stack        PySpark · Databricks · Delta Lake · Python · Pandas · SQL Server · Azure
